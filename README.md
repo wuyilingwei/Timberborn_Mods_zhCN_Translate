@@ -1,4 +1,4 @@
-# [Timberborn Mods Universal Translate](https://steamcommunity.com/sharedfiles/filedetails/?id=3346918947)
+# [Timberborn Mods zhCN Translate](https://steamcommunity.com/sharedfiles/filedetails/?id=3346918947)
 
 This project provides i18n support for Timberborn's creative workshop mod.
 
