@@ -15,4 +15,4 @@ The content that is not accepted for translation is:
  - Built in ID: These keys be used internally in the game. Modifying it may cause unpredictable modifications to the raw game and violate our "universal" principle. Players who do not install the corresponding mod may be modified.
  - Any content that violates the policies and laws of mainland China/Canada/the United States Given that our members and hosted services are located in these countries or regions, in order to avoid potential problems, this part of the content will not be translated.
 
-For translations and other documentation, the Attribution-NonCommercial-NoDerivatives 4.0 International License applies
+For translations, the Attribution-NonCommercial-NoDerivatives 4.0 International License applies.
